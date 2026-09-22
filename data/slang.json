@@ -1,0 +1,32 @@
+[
+  {
+    "term": "67",
+    "slug": "67",
+    "definition": "A viral slang term often used as a nonsense response or inside joke. Its meaning is intentionally vague and changes depending on context.",
+    "example": "Person A: 'What do you want for lunch?' Person B: '67.'",
+    "origin": "TikTok / Gen Alpha internet culture",
+    "cringeRisk": 8,
+    "tags": ["gen alpha", "tiktok", "nonsense"],
+    "lastUpdated": "2026-09-22"
+  },
+  {
+    "term": "Rizz",
+    "slug": "rizz",
+    "definition": "Short for charisma. Describes someone's ability to attract or charm another person.",
+    "example": "He walked up and got her number in ten seconds — pure rizz.",
+    "origin": "Twitch / YouTube streaming culture, popularized around 2022",
+    "cringeRisk": 6,
+    "tags": ["gen z", "dating", "charisma"],
+    "lastUpdated": "2026-09-22"
+  },
+  {
+    "term": "Mogging",
+    "slug": "mogging",
+    "definition": "When one person dominates another in physical attractiveness or presence, often used in looksmaxxing communities.",
+    "example": "He started lifting and now he's mogging everyone in the group chat.",
+    "origin": "Looksmaxxing forums, later spread to TikTok",
+    "cringeRisk": 9,
+    "tags": ["looksmaxxing", "gen z", "appearance"],
+    "lastUpdated": "2026-09-22"
+  }
+]
